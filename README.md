@@ -1,9 +1,10 @@
-# app_loja_de_plantas
+# aplicativo para lojas de plantas
 
 Status: Em desenvolvimento
+
 ## Sobre o Trabalho
 
-+ É uma aplicação sobre plantas feita utilizando o flutter
++ É uma aplicação sobre plantas feita utilizando o flutter.
 
 ## objetivo do projeto
 
@@ -11,3 +12,5 @@ Status: Em desenvolvimento
 + Ser um app responsivo
 
 ## Tecnologias aplicadas no projeto
+
++ Flutter
