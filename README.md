@@ -1,16 +1,13 @@
-# aplicativo para lojas de plantas
+# Sue Plantas
 
-Status: Em desenvolvimento
+Aplicação mobile de uma lojas de plantas onde o foco e fazer a venda de artigos de jardinagem.
 
-## Sobre o Trabalho
+![Logo](https://cdn.discordapp.com/attachments/1049460715553042564/1098748205606391808/image.png)
 
-+ É uma aplicação sobre plantas feita utilizando o flutter.
 
-## objetivo do projeto
+## Funcionalidades
 
-+ Fazer um app sobre plantas
-+ Ser um app responsivo
-
-## Tecnologias aplicadas no projeto
-
-+ Flutter
+- Temas dark e light
+- Sistema de compras 
+- Sistema de comentarios
+- Sistema de avaliações
